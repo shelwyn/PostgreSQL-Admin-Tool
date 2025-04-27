@@ -72,7 +72,6 @@ postgresql-admin-tool/
 ├── app.py          # Main application file
 ├── requirements.txt # Python dependencies
 ├── README.md       # This file
-└── screenshot.png  # Application screenshot (optional)
 ```
 
 ### Contributing
