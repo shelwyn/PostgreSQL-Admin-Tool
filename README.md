@@ -24,7 +24,7 @@ A comprehensive web-based PostgreSQL database administration tool built with Str
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/postgresql-admin-tool.git
+   git clone https://github.com/shelwyn/PostgreSQL-Admin-Tool.git
    cd postgresql-admin-tool
    ```
 
